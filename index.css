@@ -13,3 +13,6 @@ main {
 #reset {
   margin: 20px;
 }
+ #Over-max-num , #lower-min-num {
+  color: red;
+ }
